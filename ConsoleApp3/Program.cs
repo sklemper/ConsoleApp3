@@ -1,7 +1,9 @@
 ﻿using System;
 
-namespace ConsoleApp3
+namespace ConsoleApp4
 {
+
+
     class Program
     {
         static void Main(string[] args)
@@ -11,4 +13,5 @@ namespace ConsoleApp3
             Console.WriteLine($"Коту {c.Name} уже {c.GetAge()} лет");
         }
     }
+
 }
